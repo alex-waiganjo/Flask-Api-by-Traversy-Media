@@ -6,9 +6,9 @@
 - Configure a virtual environment( Windows/Mac/Linux )
 - Download Postman for testing the crud endpoints.
 - Install 
-          --- Flask
-          --- Flask_sqlalchemy
-          --- Flask-marshmallow
+          - Flask
+          - Flask_sqlalchemy
+          - Flask-marshmallow
  ### You are all set to start building the project.
  #### For more information and help,make sure you check out the tutorial on Brad's  [Youtube channel](https://www.youtube.com/watch?v=PTZiDnuC86g&ab_channel=TraversyMedia).
 
