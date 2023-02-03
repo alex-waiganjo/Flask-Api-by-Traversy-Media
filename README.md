@@ -4,7 +4,9 @@
 - You need to have python installed,in case you don't have it ,make sure you download it from [Python.org](https://www.python.org).
 - Editor of your choice.
 - Configure a virtual environment( Windows/Mac/Linux )
-- Install --- Flask
+- Download Postman for testing the crud endpoints.
+- Install 
+          --- Flask
           --- Flask_sqlalchemy
           --- Flask-marshmallow
  ### You are all set to start building the project.
