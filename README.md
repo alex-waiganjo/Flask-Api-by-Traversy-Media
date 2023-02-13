@@ -5,7 +5,7 @@
 - Editor of your choice.
 - Configure a virtual environment( Windows/Mac/Linux )
 - Download Postman for testing the crud endpoints.
-- Install 
+- Install :
    - Flask
    - Flask_sqlalchemy
    - Flask-marshmallow
