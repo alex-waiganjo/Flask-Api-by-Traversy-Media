@@ -10,5 +10,5 @@
    - Flask_sqlalchemy
    - Flask-marshmallow
  ### You are all set to start building the project.
- #### For more information and help,make sure you check out the tutorial on Brad's  [Youtube channel](https://www.youtube.com/watch?v=PTZiDnuC86g&ab_channel=TraversyMedia).
+ #### For more information and help,make sure you check out the tutorial on Brad's  [Youtube Channel](https://www.youtube.com/watch?v=PTZiDnuC86g&ab_channel=TraversyMedia).
 
