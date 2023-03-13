@@ -2,7 +2,7 @@
 ## This is a simple Api with Create ,Read,Update and Delete features.
 ## Requirements :
 - You need to have python installed,in case you don't have it ,make sure you download it from [Python.org](https://www.python.org).
-- Editor of your choice.
+- Editor of your choice:
 - Configure a virtual environment( Windows/Mac/Linux )
 - Download Postman for testing the crud endpoints.
 - Install :
