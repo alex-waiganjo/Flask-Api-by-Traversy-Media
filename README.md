@@ -1,4 +1,4 @@
-# Products Crud Api built with flask .
+# Products Crud Api built with flask 
 ## This is a simple Api with Create ,Read,Update and Delete features.
 ## Requirements :
 - You need to have python installed,in case you don't have it ,make sure you download it from [Python.org](https://www.python.org).
